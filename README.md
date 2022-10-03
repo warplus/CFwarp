@@ -1,10 +1,12 @@
-源码来源自 (https://ygkkk.blogspot.com/2022/09/gitlabcfwarpwarpwarp.html)
+源码来源自 (http://ygkkk.blogspot.com/2022/09/gitlabcfwarpwarpwarp.html)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 一键脚本：
 ```
-wget -N --no-check-certificate https://gitlab.com/warplus/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+wget -N --no-check-certificate http://gg.gg/warplus -o CFwarp.sh && bash CFwarp.sh
+
+wget -N --no-check-certificate https://github.com/warplus/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ```
 ----------------------------------------------------------------------------------------------------------------------
 
